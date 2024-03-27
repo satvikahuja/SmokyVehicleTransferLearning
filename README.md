@@ -32,7 +32,7 @@ python train_model.py
 Have secured 91% accuracy on the test set
 
 ## Limitations and Future Work
-Have to add multiple more features such as number plate detection, mapping the number plate with the vehicle detected. This is going to get quite complex to acomplish, will try to add these funcitonality in the future
+Have to add multiple more features such as number plate detection, mapping the number plate with the vehicle detected. This is going to get quite complex to accomplish, will try to add these funcitonalities in the future
 
 ## Contributing
 open to discuss in detail how we can make it production ready by how we could implement the future work
