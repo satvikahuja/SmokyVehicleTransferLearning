@@ -10,6 +10,7 @@ Faulty vehicle exhausts are a significant contributor to air pollution and can c
 
 ## Dataset
 The model was trained on a custom dataset of 400 images labeled as 'smoky' or 'non-smoky'. This was created synthetically by https://github.com/srimantacse/VehicleSmokeDataset
+To implement this project in future, need to make dataset from real world.
 
 ## Model
 The model is based on ResNet-152, a deep residual network with 152 layers. We have done Transfer-Learing on the Resnet model with the smoky vehicle dataset to adapt the model to this specific task.
