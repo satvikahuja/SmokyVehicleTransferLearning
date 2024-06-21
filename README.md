@@ -30,6 +30,8 @@ python train_model.py
 
 ## Results
 Have secured 91% accuracy on the test set
+![pollution_2](https://github.com/satvikahuja/SmokyVehicleTransferLearning/assets/109898261/3dced20a-17e2-4ebd-a2bd-385b6f6dd5ca)
+
 
 ## Limitations and Future Work
 Have to add multiple more features such as number plate detection, mapping the number plate with the vehicle detected. This is going to get quite complex to accomplish, will try to add these funcitonalities in the future
